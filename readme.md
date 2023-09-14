@@ -14,5 +14,21 @@
 
 - Add remote repository using ` git remote add origin https://github.com/johntrehearn/git_testing.git`
 
-f
+- checked version on github
+
+- made changes on the github website
+
+- made changes on the local machine
+
+- tried to push and got the merge conflict
+
+- used the force flag -f or --force to force the pushes to the directory
+
+- lerned that ALWAYS PULL changes from the 
+
+-git pull and git fetch
+
+-- fetch(checks if there are any changes and lets you know (shows them to you))
+
+-- pull downloads the changes to local machine
 
